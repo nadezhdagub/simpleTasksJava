@@ -11,5 +11,13 @@ public class ExArrayList {
         list.add("Orange");
         list.add("White");
         System.out.println(list);
+
+        //Write a Java program to iterate
+        // through all the elements in the array list.
+        for(String e : list) {
+            System.out.println(e);
+        }
+
+        
     }
 }
