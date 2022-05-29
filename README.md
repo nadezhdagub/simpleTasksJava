@@ -16,3 +16,7 @@
 - Priority Queue Exercises [12 exercises]
 - HashMap exercises [12 exercises]
 - TreeMap exercises [26 exercises]
+
+# filteringOfHighFrequencyNoiseUsingBPA
+
+Use Adamar method for matrix
