@@ -1,0 +1,32 @@
+2022-05-01 11:04:26.300 [thread-1] Operation processing [id=100] has been started.
+2022-05-01 11:04:26.300 [thread-1] Authentication has been started.
+2022-05-01 11:04:26.500 [thread-1] Authentication has been finished.
+2022-05-01 11:04:26.500 [thread-1] Authorization has been started.
+2022-05-01 11:04:26.700 [thread-1] Authorization has been finished.
+2022-05-01 11:04:26.700 [thread-1] Balances modification has been started.
+2022-05-01 11:04:27.300 [thread-1] Balances modification has been finished.
+2022-05-01 11:04:27.300 [thread-1] Operation processing [id=100] has been finished.
+2022-05-01 11:04:28.000 [thread-2] Operation processing [id=101] has been started.
+2022-05-01 11:04:28.000 [thread-2] Authentication has been started.
+2022-05-01 11:04:28.100 [thread-2] Authentication has been finished.
+2022-05-01 11:04:28.100 [thread-2] Authorization has been started.
+2022-05-01 11:04:28.200 [thread-2] Authorization has been finished.
+2022-05-01 11:04:28.200 [thread-2] Balances modification has been started.
+2022-05-01 11:04:28.400 [thread-2] Balances modification has been finished.
+2022-05-01 11:04:28.400 [thread-2] Operation processing [id=101] has been finished.
+2022-05-01 11:04:29.300 [thread-1] Operation processing [id=103] has been started.
+2022-05-01 11:04:29.300 [thread-1] Authentication has been started.
+2022-05-01 11:04:29.500 [thread-1] Authentication has been finished.
+2022-05-01 11:04:29.500 [thread-1] Authorization has been started.
+2022-05-01 11:04:29.700 [thread-1] Authorization has been finished.
+2022-05-01 11:04:29.700 [thread-1] Balances modification has been started.
+2022-05-01 11:04:30.700 [thread-1] Balances modification has been finished.
+2022-05-01 11:04:30.700 [thread-1] Operation processing [id=103] has been finished.
+2022-05-01 11:04:31.000 [thread-1] Operation processing [id=104] has been started.
+2022-05-01 11:04:31.000 [thread-1] Authentication has been started.
+2022-05-01 11:04:31.100 [thread-1] Authentication has been finished.
+2022-05-01 11:04:31.100 [thread-1] Authorization has been started.
+2022-05-01 11:04:31.200 [thread-1] Authorization has been finished.
+2022-05-01 11:04:31.200 [thread-1] Balances modification has been started.
+2022-05-01 11:04:31.300 [thread-1] Balances modification has been finished.
+2022-05-01 11:04:31.300 [thread-1] Operation processing [id=104] has been failed.
