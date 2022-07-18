@@ -23,4 +23,8 @@ Use Adamar method for matrix
 
 
 # just-another-app
-later
+It is necessary to develop a console application that processes the log file and counts:
+• The number of successfully and unsuccessfully processed operations.
+• Average processing time of operations in the context of successful / unsuccessful.
+• Average execution time of the stages (Authentication, Authorization, Balances
+modification) of processing operations in the context of successful / unsuccessful.
