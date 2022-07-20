@@ -105,6 +105,6 @@ public class something {
             System.out.println("There is no second minimal element");
         }
 
-        System.out.println("Минимальный элемент в массиве: " + min);
+        System.out.println("Minimum element in the array: " + min);
     }
 }
