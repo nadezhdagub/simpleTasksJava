@@ -1,18 +1,15 @@
-import java.lang.String;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Scanner;
 
 public class something {
-
-
     public static void main(String[] args) {
         //Write a Java program to find the first non-repeating character in a string.
         Scanner sc = new Scanner(System.in);
         String word = sc.next();
         System.out.println("The given string is: " + word);
 
-   /*     for (int i = 0; i < word.length(); i++) {
+        for (int i = 0; i < word.length(); i++) {
             boolean un = true;
             for (int j = 0; j < word.length(); j++) {
                 if (i != j && word.charAt(i) == word.charAt(j)) {
@@ -23,9 +20,11 @@ public class something {
             if (un) {
                 System.out.println(word.charAt(i));
             }
-        }*/
+        }
 
         //or
+        
+        
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
         char[] strArray = word.toCharArray();
 
@@ -52,6 +51,10 @@ public class something {
         }
 
 
+
+
+
+
         //a string is given. find the most frequently encountered symbol.
         // if several characters occur equally often, output any
 
@@ -73,7 +76,10 @@ public class something {
             }
         }
         System.out.println();
-        System.out.println("Максимальное количество вхождений: " + array[index] + ":" + col);
+        System.out.println("Maximum number of occurrences: " + array[index] + ":" + col);
+
+
+
 
 
 
