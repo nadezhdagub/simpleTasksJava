@@ -100,7 +100,7 @@ public class something {
         }
 
         if (min2 != Integer.MAX_VALUE) {
-            System.out.println("Второй по минимальности элемент в массиве: " + min2);
+            System.out.println("The second smallest element in the array: " + min2);
         } else {
             System.out.println("Второго по минимальности элемента нет");
         }
