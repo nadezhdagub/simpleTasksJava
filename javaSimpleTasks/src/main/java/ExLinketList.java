@@ -214,7 +214,7 @@ public class ExLinketList {
         System.out.println("Check the above linked list is empty or not! "+la.isEmpty());
 
         //Write a Java program to replace an item in a linked list.
-        la.set(1, "Orange");
+      //  la.set(1, "Orange");
         System.out.println("The value of second element changed.");
         System.out.println("New linked list: " + la);
     }
