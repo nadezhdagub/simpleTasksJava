@@ -104,17 +104,34 @@ public class something {
 
 
         // Write a Java program to get a character at the specified index in a string.
-        {
-            String str ="Java Exercises!";
-            System.out.println("Original String =" + str);
-            // Get the character at positions 0 and 10.
-            int index1 = str.charAt(0);
-            int index2 = str.charAt(10);
-            // Print out the results.
-            System.out.println("The character at position 0 is " +
-                    (char)index1);
-            System.out.println("The character at position 10 is " +
-                    (char)index2);
-        }
+        
+        String str ="Java Exercises!";
+        System.out.println("Original String =" + str);
+        // Get the character at positions 0 and 10.
+        int index1 = str.charAt(0);
+        int index2 = str.charAt(10);
+        // Print out the results.
+        System.out.println("The character at position 0 is " +
+                (char)index1);
+        System.out.println("The character at position 10 is " +
+                (char)index2);
+        
+        
+        
+        // Write a Java program to get a character (Unicode code point) at the specified index in the string.
+        
+        String str ="w3resource.com";
+        System.out.println("Original String : " + str);
+        
+        // codepoint at index 1
+        int val1 = str.codePointAt(1);
+    
+        // codepoint at index 9
+        int val2 = str.codePointAt(9);
+        
+        // prints character at index1 in string
+        System.out.println("Character(unicode point) =" + val1);
+        // prints character at index9 in string
+        System.out.println("Character(unicode point) =" + val2);
     }
 }
