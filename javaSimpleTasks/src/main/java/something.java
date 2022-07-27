@@ -133,5 +133,19 @@ public class something {
         System.out.println("Character(unicode point) =" + val1);
         // prints character at index9 in string
         System.out.println("Character(unicode point) =" + val2);
+        
+        
+        
+        
+        // Write a Java program to count the number of Unicode code points in the specified text range of the string.
+        
+        String str ="w3rsource.com";
+        System.out.println("Original String : " + str);
+        
+        // codepoint from index 1 to index 10
+        int ctr = str.codePointCount(1, 10);
+        
+        // prints character from index 1 to index 10
+        System.out.println("Codepoint count =" + ctr);
     }
 }
